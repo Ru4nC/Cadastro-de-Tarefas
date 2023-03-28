@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Tarefa 1",
+      "status": "Pendente"
+    },
+    {
+      "id": 2,
+      "descricao": "Tarefa 2",
+      "status": "Concluída"
+    }
+  ]
+}
